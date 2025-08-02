@@ -1,5 +1,5 @@
 
-# Multi-Cloud CI/CD & Observability Platform
+# CI/CD & Observability Platform
 
 ![Project Thumbnail](ci-cd.png)
 
